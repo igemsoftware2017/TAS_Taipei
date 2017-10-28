@@ -11,4 +11,4 @@ ReversePR_Runenr is a calculator that, when given initial and target NP concentr
 
 Biofilm_Runner is a calculator that, when given initial and final volume, initial and targeted final NP concentration, velocity of water in contact with biofilm, and total biofilm-NP contact time, will give out the surface area of biofilm needed.
 
-All units are included with the program. Insert as many digits as possible for a more accurate result.
+All units are included with the program. Insert as many digits as possible for a more accurate result. To view the code of each .jar files, unzip with tools like 7zip or Winzip and then use BlueJ (free Java IDE) to open the package. 
