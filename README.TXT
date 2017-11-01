@@ -1,4 +1,4 @@
-PROJECT TITLE: TAS_Taipei 2017 iGEM Modleing Software
+PROJECT TITLE: TAS_Taipei 2017 iGEM Modeling Software
 PURPOSE OF PROJECT: Allow the usage of our modeling efforts in program form
 VERSION or DATE: 1.0.0 10/26/2017
 HOW TO START THIS PROJECT: Download and double click to launch.
