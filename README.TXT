@@ -5,7 +5,7 @@ HOW TO START THIS PROJECT: Download and double click to launch.
 AUTHOR: William Chen
 USER INSTRUCTIONS: 
 
-PR_Runner is a calculator that, when given initial NP concentration, initial bacteria concentration, initial NP-PR concentration, and intended time elapsing, will give out the final NP concentration. 
+PR_Runner is a calculator that, when given initial NP concentration, initial bacteria concentration, initial NP-PR concentration, and intended time elapsed, will give out the final NP concentration. 
 
 ReversePR_Runenr is a calculator that, when given initial and target NP concentration, initial NP-PR concentration, and intended retention time, will give out the final bacteria concentration. 
 
